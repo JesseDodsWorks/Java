@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.container {
+    width: 25%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3{
+    text-align: center;
+}
+form {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.counter_input{
+    width: 35px;
+}
+
+button {
+    background-color: aquamarine;
+    margin-left: 250px;
+}
+
+.displayView {
+	border: 1px solid black;
+    padding: 15px;
+	background-color: aquamarine;
+}
