@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+.container {
+    width: 40%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quickBorder {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+table {
+	justify-content: space-evenly;	
+}
+
+th {
+    font-weight: bold;
+}
+
+.btnShiftLeft {
+    margin-left: 10px;
+}
+
+.inLine {
+    display:block;
+}
